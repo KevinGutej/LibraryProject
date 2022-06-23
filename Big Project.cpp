@@ -213,6 +213,7 @@ int main()
 
                 case 5:
                 {
+                    cout << "WORKING IN PROGRESS.SOON" << endl;
                     space();
                 }
                     break;
@@ -229,6 +230,7 @@ int main()
 
                 case 7:
                 {
+                    cout << "WORKING IN PROGRESS.SOON" << endl;
                     space();
                 }
                     break;
